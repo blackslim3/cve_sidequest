@@ -46,10 +46,10 @@ oldpassword=6786786786&newpassword=password123&cpassword=password123&changepwd=C
 ```
 
   > On the POST request above, it has the following conditions that allows a CSRF to work:
-    1. Relevant Action: change password
-    2. Cookie-based session handling
-    3. No unpredictable token needed
-    4. The `oldpassword` value can be the attacker's password. 
+    - Relevant Action: change password
+    - Cookie-based session handling
+    - No unpredictable token needed
+    - The `oldpassword` value can be the attacker's password. 
 
   > CSRF Exploit:
 ![image](https://github.com/blackslim3/cve_sidequest/blob/main/poc/assets/CSRF_exploit.png)
