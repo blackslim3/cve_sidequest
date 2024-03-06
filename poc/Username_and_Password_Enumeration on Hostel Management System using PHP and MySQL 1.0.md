@@ -29,5 +29,5 @@
 
 
 ## **Vulnerability Impact**:
-    Allows an unauthenticated attacker to delete registered users and view all the remaining registered users.
+    Allows an unauthenticated attacker to enumerate valid usernames/email addresses and passwords through observing discrepancies in HTTP responses from the server. 
     
