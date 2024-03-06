@@ -55,7 +55,7 @@ oldpassword=6786786786&newpassword=password123&cpassword=password123&changepwd=C
 
 ![image](https://github.com/blackslim3/cve_sidequest/blob/main/poc/assets/CSRF_exploit.png)
 
-> CSRF Exploit Successfully
+> CSRF Exploit Successful
 
 ![image](https://github.com/blackslim3/cve_sidequest/blob/main/poc/assets/CSRF_changePassword_success.png)
 
