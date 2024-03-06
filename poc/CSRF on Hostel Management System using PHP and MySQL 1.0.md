@@ -52,9 +52,11 @@ oldpassword=6786786786&newpassword=password123&cpassword=password123&changepwd=C
 - The `oldpassword` value can be the attacker's password. 
 
 > CSRF Exploit:
+
 ![image](https://github.com/blackslim3/cve_sidequest/blob/main/poc/assets/CSRF_exploit.png)
 
-> CSRF Exploit Successfuly
+> CSRF Exploit Successfully
+
 ![image](https://github.com/blackslim3/cve_sidequest/blob/main/poc/assets/CSRF_changePassword_success.png)
 
 ## **Vulnerability Impact**:
